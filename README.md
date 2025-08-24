@@ -15,8 +15,8 @@
 
 ---
 
-## 📂 Featured Projects  
-- [Heart Disease Prediction](https://github.com/adars-h-agrawal/1_heart-disease-prediction) – ML project predicting heart disease using KNN 
+## 📂 Featured Projects      
+- [Heart Disease Prediction](https://github.com/adars-h-agrawal/heart-disease-prediction) – ML project predicting heart disease using KNN 
 - More projects coming soon...
 
 ---
