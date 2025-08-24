@@ -2,12 +2,13 @@
 
 🎓 Third-year B.Tech student @ MIT Manipal  
 💡 Passionate about AI/ML, Data Structures & Algorithms, and Competitive Programming  
-🚀 Aspiring Software Engineer aiming for FAANG companies  
+🚀 Aspiring Data Scientist aiming for top tech companies (FAANG & beyond)
 
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** C++, Python, Java  
+- **Programming Languages:** C, C#, C++, Python, Java, HTML
+- **Databases:** MongoDB, MySQL
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux, Jupyter Notebook  
 - **Interests:** AI/ML, Competitive Programming, Problem Solving, Data Analysis  
@@ -22,6 +23,9 @@
 
 ## 📈 GitHub Stats
 ![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&count_private=true&theme=radical)
+
+## 💻 Languages & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=radical)
 
 ---
 
