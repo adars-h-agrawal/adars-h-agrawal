@@ -32,8 +32,7 @@
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adarsh-agrawal-76665a222/)  
 - [Email](mailto:agrawaladarsh2005@gmail.com)  
-- [Twitter](https://twitter.com/) *(optional, if you have one)*  
 
 ---
 
-*“Strive for progress, not perfection.”*
+*“Live today so fully, so boldly, that if it were your last, you'd leave with no regrets—only peace in your heart and purpose in your wake.”*
