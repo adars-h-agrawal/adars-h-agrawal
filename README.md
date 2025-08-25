@@ -21,9 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&count_private=true&theme=radical)
-
 ## 💻 Languages & Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=radical)
 
