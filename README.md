@@ -26,6 +26,11 @@
 
 ---
 
+## 📊 GitHub Stats
+[![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&theme=github_dark)
+
+---
+
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adarsh-agrawal-76665a222/)  
 - [Email](mailto:agrawaladarsh2005@gmail.com)  
