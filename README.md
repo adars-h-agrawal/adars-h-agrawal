@@ -26,6 +26,11 @@
 
 ---
 
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/adarsh_a_grawal?theme=dark&font=JetBrains%20Mono)
+
+---
+
 ## 📊 GitHub Stats
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&theme=github_dark)
 
