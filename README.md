@@ -16,7 +16,8 @@
 ---
 
 ## 📂 Featured Projects      
-- [Heart Disease Prediction](https://github.com/adars-h-agrawal/heart-disease-prediction) – ML project predicting heart disease using KNN 
+- [Heart Disease Prediction](https://github.com/adars-h-agrawal/heart-disease-prediction) – ML project predicting heart disease using KNN
+- [Restaurant Management System](https://github.com/adars-h-agrawal/resturant-management-system) – A C# and SQL Server app to manage restaurant operations.
 - More projects coming soon...
 
 ---
