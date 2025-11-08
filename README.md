@@ -19,6 +19,9 @@
 - 🩺 [**Heart Disease Prediction**](https://github.com/adars-h-agrawal/heart-disease-prediction)  
   → Machine Learning project predicting heart disease using the **KNN algorithm** and patient dataset analytics.
 
+- 🔢 [**Digit Recognition (CNN Model)**](https://github.com/adars-h-agrawal/digit-recognition-cnn-model)  
+  → A **Deep Learning project** using Convolutional Neural Networks (CNNs) to classify handwritten digits (MNIST dataset) with TensorFlow/Keras.
+
 - 🍽️ [**Restaurant Management System**](https://github.com/adars-h-agrawal/resturant-management-system)  
   → A **C# + SQL Server** desktop application to streamline restaurant operations, billing, and inventory.
 
