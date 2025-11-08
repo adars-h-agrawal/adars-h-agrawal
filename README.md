@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Adarsh Agrawal Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Adarsh Agrawal
 
 🎓 **Third-year B.Tech Student @ MIT Manipal**  
