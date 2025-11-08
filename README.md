@@ -33,7 +33,7 @@
 ---
 
 ## 💻 Languages & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=radical&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=radical&langs_count=14)
 
 ---
 
