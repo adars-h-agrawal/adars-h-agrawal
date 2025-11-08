@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Adarsh Agrawal Banner" width="50%" style="border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.2);">
-</p>
-
-# 👋 Hi, I'm Adarsh Agrawal
+# Hi, I'm Adarsh Agrawal
 
 🎓 **Third-year B.Tech Student @ MIT Manipal**  
 💡 Passionate about **AI/ML**, **Data Structures & Algorithms**, and **Competitive Programming**  
