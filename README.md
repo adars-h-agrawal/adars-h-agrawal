@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Adarsh Agrawal Banner" width="100%">
+  <img src="banner.png" alt="Adarsh Agrawal Banner" width="50%" style="border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.2);">
 </p>
 
 # 👋 Hi, I'm Adarsh Agrawal
