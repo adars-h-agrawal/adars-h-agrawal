@@ -16,20 +16,17 @@
 ---
 
 ## 📂 Featured Projects
-- 🩺 [**Heart Disease Prediction**](https://github.com/adars-h-agrawal/heart-disease-prediction)  
-  → Machine Learning project predicting heart disease using the **KNN algorithm** and patient dataset analytics.
+- 🔐 [**Advanced Network Intrusion Detection System (NIDS)**](https://github.com/adars-h-agrawal/advanced-network-intrusion-detection)  
+  → A hybrid **AI-based cybersecurity system** that analyzes network packets in real time using machine learning to detect suspicious activity and potential intrusions.
 
-- 🔢 [**Digit Recognition (CNN Model)**](https://github.com/adars-h-agrawal/digit-recognition-cnn-model)  
-  → A **Deep Learning project** using Convolutional Neural Networks (CNNs) to classify handwritten digits (MNIST dataset) with TensorFlow/Keras.
-
-- 🍽️ [**Restaurant Management System**](https://github.com/adars-h-agrawal/resturant-management-system)  
-  → A **C# + SQL Server** desktop application to streamline restaurant operations, billing, and inventory.
+- 🎬 [**Movie Recommendation System**](https://github.com/adars-h-agrawal/movie-recommendation-system)  
+  → A **machine learning recommendation engine** that suggests movies based on similarity between films using content-based filtering and dataset analytics.
 
 - 🏨 [**Hostel Management System**](https://github.com/adars-h-agrawal/hostel-management-system)  
-  → A **PHP + MySQL + HTML/CSS/JS** full-stack web application for managing student data, fees, and maintenance records.
+  → A **full-stack web application** built with **PHP, MySQL, HTML, CSS, and JavaScript** to manage student records, room allocation, and hostel administration.
 
-- 🔐 [**Advanced Network Intrusion Detection System (NIDS)**](https://github.com/adars-h-agrawal/advanced-network-intrusion-detection)  
-  → A hybrid **AI-based security system** detecting potential cyber threats using machine learning and network packet analysis.
+- 🔢 [**Digit Recognition (CNN Model)**](https://github.com/adars-h-agrawal/digit-recognition-cnn-model)  
+  → A **Deep Learning project** using **Convolutional Neural Networks (CNNs)** with TensorFlow/Keras to classify handwritten digits from the MNIST dataset.
 
 🚧 *More projects coming soon — including Stock Market Analysis, CNN Traffic Detection & AI Agent*  
 
