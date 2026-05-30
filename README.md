@@ -1,78 +1,117 @@
-## Hi, I'm Adarsh Agrawal
+# Hi, I'm Adarsh Agrawal 👋
 
-🎓 **Third-year B.Tech Student @ MIT Manipal**  
-💡 Passionate about **AI/ML**, **Data Structures & Algorithms**, and **Competitive Programming**  
-🚀 Aspiring **Data Scientist / Quant Engineer**, aiming for top tech and finance companies *(FAANG & beyond)*  
+### AI/ML Engineer • Full-Stack Developer • Problem Solver
 
----
+I'm passionate about building intelligent systems that combine software engineering, machine learning, and real-world impact.
 
-## 🛠️ Skills
-- **Programming Languages:** Python, C, C++, C#, Java, PHP, JavaScript, HTML, CSS, SQL, Shell  
-- **Databases:** MySQL, MongoDB  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Jupyter Notebook  
-- **Core Interests:** Artificial Intelligence, Machine Learning, Data Analysis, Competitive Programming
+My interests include:
 
----
-
-## 📂 Featured Projects
-- 🔐 [**Advanced Network Intrusion Detection System (NIDS)**](https://github.com/adars-h-agrawal/advanced-network-intrusion-detection)  
-  → A hybrid **AI-based cybersecurity system** that analyzes network packets in real time using machine learning to detect suspicious activity and potential intrusions.
-
-- 🎬 [**Movie Recommendation System**](https://github.com/adars-h-agrawal/movie-recommendation-system)  
-  → A **machine learning recommendation engine** that suggests movies based on similarity between films using content-based filtering and dataset analytics.
-
-- 🏨 [**Hostel Management System**](https://github.com/adars-h-agrawal/hostel-management-system)  
-  → A **full-stack web application** built with **PHP, MySQL, HTML, CSS, and JavaScript** to manage student records, room allocation, and hostel administration.
-
-- 🔢 [**Digit Recognition (CNN Model)**](https://github.com/adars-h-agrawal/digit-recognition-cnn-model)  
-  → A **Deep Learning project** using **Convolutional Neural Networks (CNNs)** with TensorFlow/Keras to classify handwritten digits from the MNIST dataset.
-
-🚧 *More projects coming soon — including Stock Market Analysis, CNN Traffic Detection & AI Agent*  
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- Computer Vision
+- Full-Stack Development
+- Real-Time Systems
+- Data-Driven Engineering
 
 ---
 
-## 💻 Languages & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=radical&langs_count=14)
+## 🚀 Featured Projects
+
+### 🧠 Confidence-Calibrated Hallucination Detection
+**Medical LLM Reliability Framework**
+
+Machine learning framework for detecting hallucinated medical LLM responses using TF-IDF, Sentence-BERT embeddings, confidence calibration, and reference-guided verification.
+
+**Tech Stack:** Python • Scikit-Learn • Sentence Transformers • Streamlit • NLP
 
 ---
 
-## 👨‍💻 Tech Stack Icons
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/> 
-</p>
+### 🌍 Fluently
+**AI-Native Language Learning Platform**
+
+A full-stack language learning platform featuring real-time messaging, video calling, secure authentication, and AI-assisted learning experiences.
+
+**Tech Stack:** React • Node.js • MongoDB • Stream Chat • Stream Video • Ollama
 
 ---
 
-## 🏆 LeetCode Stats
+### 🛡️ Advanced Network Intrusion Detection System
+**AI-Powered Cybersecurity Monitoring**
+
+Machine learning-based intrusion detection system for analyzing network traffic, identifying suspicious behavior, and detecting potential cyber threats in real time.
+
+**Tech Stack:** Python • Scikit-Learn • Network Security • Machine Learning
+
+---
+
+### 🔬 Explainable Skin Lesion Segmentation
+**Medical Imaging & Explainable AI**
+
+Deep learning framework for explainable skin lesion segmentation using uncertainty estimation, Grad-CAM visualizations, and medical image analysis.
+
+**Tech Stack:** TensorFlow • Keras • OpenCV • Streamlit • Computer Vision
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Full Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adarsh_a_grawal?theme=dark&font=JetBrains%20Mono)
 
 ---
 
-## 📊 GitHub Stats
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&theme=github_dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=adars-h-agrawal&theme=radical&hide_border=false)
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adars-h-agrawal&theme=github-dark)
 
 ---
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/adarsh-agrawal-76665a222/)  
-- 📧 [Email](mailto:agrawaladarsh2005@gmail.com)  
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/adarsh-agrawal-76665a222/
+- Email: agrawaladarsh2005@gmail.com
 
 ---
 
-> *“Live today so fully, so boldly, that if it were your last, you'd leave with no regrets—only peace in your heart and purpose in your wake.”* ✨
+> Building intelligent systems that are useful, reliable, and explainable.
