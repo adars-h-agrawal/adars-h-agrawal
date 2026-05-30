@@ -88,10 +88,6 @@ Deep learning framework for explainable skin lesion segmentation using uncertain
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adars-h-agrawal&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adars-h-agrawal&layout=compact&theme=github_dark&langs_count=10)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=adars-h-agrawal&theme=github-dark)
 
 ---
